@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="richpresencediscord"
+version="1.0.1"
+displayName="Rich presence Discord"
+authors="Aldeander"
+description='''
+Este mod envia notificações para um webhook do Discord sempre que um jogador entra ou sai do servidor.
+'''

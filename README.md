@@ -1,0 +1,1 @@
+Este é um mod do Minecraft em Java para enviar notificações para um webhook do Discord sempre que um jogador entra ou sai do servidor.
